@@ -1,0 +1,6 @@
+requests
+PyMuPDF
+google-generativeai
+pandas
+openpyxl
+Flask
